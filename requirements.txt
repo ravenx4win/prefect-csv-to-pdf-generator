@@ -1,0 +1,6 @@
+Since the packages that has been used by me in this project are:
+pandas
+requests
+reportlab
+prefect
+os
